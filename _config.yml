@@ -1,0 +1,11 @@
+# basic options, I can say whatever I want
+title: Ziggy And Zaggy
+author: Z1ggzag
+email: sirtimothy123@yahoo.com
+description: my first site/blog
+twitter_username: Idont
+github_username: z1ggzag
+
+# Build Settings
+markdown: kramdown
+theme: minima
